@@ -19,33 +19,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas focado no desenvolviment
 
 > Aplicado Responsivo :+1:
 
-Tem como propósito ajudar desenvolvedores no envio de email atravez da funcionalidade do PHP, o `PHPMailer`. Conta também com um template de email configurado para ser enviado como corpo do projeto.
-
-Neste projeto a instalação do `PHPMailer` foi feita via [Composer](https://getcomposer.org).
-
-Para usar o `PHPMailer` siga as instruções de intalação disponibilizadas em [PHPMailer](https://github.com/PHPMailer/PHPMailer).
-
-## Observação
-
-Veja no arquivo `index.php` que a importação do template é feita no seguinte código:
-
-```php
-$template = file_get_contents('../template_email.html');
-```
-
-- Primeiro crie uma variável para a importação.
-- Após, importe o arquivo no diretório que ele está.
-
-```php
-$mail->Body = $template; 
-```
-
-- Depois de importado configure o template como corpo do email e está pronto.
-
-## Características
-
-- Suporte SMTP integrado - Envio de um servidor de email local.
-- Compatível com PHP 5.5 e posterior, incluindo PHP 8.0.
 
 ### Licença
 
