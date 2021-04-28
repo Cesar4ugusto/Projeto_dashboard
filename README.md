@@ -19,6 +19,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas focado no desenvolviment
 
 > Aplicado Responsivo :+1:
 
+Desenvolvido para dar um diferencial no Front-End do painel de gestão de qualquer uso 
 
 ### Licença
 
