@@ -15,7 +15,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas focado no desenvolviment
 
 > Status do Projeto: Concluido :heavy_check_mark:
 
-> Projeto Full-Stack :+1:
+> Projeto Front-End :+1:
 
 > Aplicado Responsivo :+1:
 
